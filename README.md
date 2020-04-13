@@ -1,4 +1,4 @@
-# docker_php_project
+# docker create php project
 Creates folderstructure and basic docker setup for developing php projects
 
 usage:
